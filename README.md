@@ -1,1 +1,1 @@
-Hi, I’m @MIDUGI, currently learning Epidemiology and Biostatistics, interested in Data Analytics. I’m mostly interested in data analytics tools like SQL, R, Python, and Tableau.
+Hi, I’m @MIDUGI, a gradute in applied Epidemiology with string Biostatistics emphasis. I’m mostly interested in data analytics tools like SQL, R, Python, and Tableau, and their application in geospatial and time-series analysis.
